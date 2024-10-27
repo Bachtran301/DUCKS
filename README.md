@@ -1,4 +1,6 @@
 
+![duck](https://github.com/user-attachments/assets/6c7b3a35-3d30-4c50-9923-82f6e4f04f14)
+
 ✔️ Add task
 
 ✔️ Auto daily
